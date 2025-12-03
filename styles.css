@@ -64,7 +64,9 @@ body {
 }
 
 .logo {
-  height: 90px;
+  height: 140px;
+  width: auto;
+  display: block;
 }
 
 .site-header h1 {
