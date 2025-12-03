@@ -60,14 +60,15 @@ body {
 .logo-wrap {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 18px;
+  min-height: 140px;
 }
 
 .logo {
-  height: 200px;
+  height: 140px;
   width: auto;
-  display: block;
 }
+
 
 .site-header h1 {
   font-family: var(--font-title);
