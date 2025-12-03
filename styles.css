@@ -51,10 +51,10 @@ body {
 .site-header {
   max-width: var(--max-width);
   margin: 10px auto 0;
-  padding: 12px 16px 8px;
+  padding: 20px 16px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .logo-wrap {
